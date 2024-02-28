@@ -1,5 +1,7 @@
 # Chapter1. Combinatorics
-This course introduces combinatorics, the study of counting, which is essential in probability. It explores probability with examples like coins and cards. Covers expectation values, variance, and standard deviation. Discusses common probability distributions, correlation, and regression.
+ Combinatorics is the study of how to count things. By “things” we mean the various
+ combinations, permutations (different orderings), subgroups, and so on, that can be
+ formed from a given set of objects/people/etc.
 # Question: 
 If you roll a standard six-sided die twice (or equivalently, roll two dice), how many different possible ordered outcomes are there?
 # Solution
