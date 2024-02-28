@@ -1,4 +1,4 @@
-# Probability-Questions-Solutions
+# Chapter1. Combinatorics
 This course introduces combinatorics, the study of counting, which is essential in probability. It explores probability with examples like coins and cards. Covers expectation values, variance, and standard deviation. Discusses common probability distributions, correlation, and regression.
 # Question: 
 If you roll a standard six-sided die twice (or equivalently, roll two dice), how many different possible ordered outcomes are there?
@@ -16,3 +16,6 @@ If you roll a standard six-sided die twice (or equivalently, roll two dice), how
  * If we look at the above Table, we see that six different outcomes yield a sum of 7.
  * They are 1,6; 2,5; 3,4; 4,3; 5,2; 6,1. Since all 36 possibilities are equally likely (because the probability of any number showing up on any roll is the same, namely 1/6), and since six of the possibilities     
    yield the desired sum of 7, the probability of rolling a sum of 7 is 6/36 = 1/6 ≈ 16.7%.
+# Question 
+ If you flip a coin four times (or equivalently, flip four coins), how many different possible ordered outcomes are there?
+# Solution
